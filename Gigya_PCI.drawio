@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T10:33:04.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="auGZAEZHoLKl2HTtzgAd" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-18T10:34:09.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Buv9YuTyasQaXY22mITl" version="15.5.5" type="github" pages="2">
   <diagram id="HClGZ7QLz-IOR6l6fCfy" name="Gigya-ASIS">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry x="670" y="460" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yu-SjEQ4_HWFC0-XldRP-17" value="Frankfurt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="yu-SjEQ4_HWFC0-XldRP-1">
-          <mxGeometry x="318" y="610" width="60" height="20" as="geometry" />
+          <mxGeometry x="450" y="591" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yu-SjEQ4_HWFC0-XldRP-18" value="&lt;span style=&quot;color: rgb(234 , 67 , 53) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;eu-central-1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="yu-SjEQ4_HWFC0-XldRP-1">
           <mxGeometry x="775" y="352" width="90" height="20" as="geometry" />
