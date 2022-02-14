@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T09:33:18.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qSVZuvUC0_-1--vRZZIw" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-14T09:34:19.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jJaWEWGD7dfZ5yGyczc8" version="16.5.6" type="github" pages="2">
   <diagram id="HClGZ7QLz-IOR6l6fCfy" name="Gigya-ASIS">
     <mxGraphModel dx="1426" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,6 +151,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xXc8IUvG-Q4nKvIilD_s-3" value="bandwidth: 500M" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;" vertex="1" parent="yu-SjEQ4_HWFC0-XldRP-1">
+          <mxGeometry x="705" y="470" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
